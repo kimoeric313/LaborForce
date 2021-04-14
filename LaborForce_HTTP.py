@@ -10,7 +10,7 @@ import urllib
 
 
 #函式-------------------------------------------------------------
-
+####vvvvvvvvvvvvvvvvvvvvvvvvv
 class MyHandler(RequestHandler):
 
     def do_GET(self):
